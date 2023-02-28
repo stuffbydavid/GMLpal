@@ -9,4 +9,4 @@ A handy tool for GameMaker: Studio users, it allows developers to perform projec
 
 <b>Note</b>: This is for GameMaker: Studio 1.x projects only! Feel free to fork and add 2.x support if you can.
 
-Download executable: https://www.stuffbydavid.com/gmlpal
+Download executable: https://github.com/stuffbydavid/GMLpal/blob/master/GMLpal.exe
